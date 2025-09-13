@@ -1,1 +1,0 @@
-# Dados-Num-da-Sorte

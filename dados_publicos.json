@@ -1,6 +1,8 @@
 {
   "numeros_reservados": [
-    ""
+    "99",
+    "98",
+    "97"
   ],
   "numeros_vendidos": [
     "71",
